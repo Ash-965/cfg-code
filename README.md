@@ -1,2 +1,2 @@
-# Timnit Gebru page
+# ProjectGroup1
 This is my project
